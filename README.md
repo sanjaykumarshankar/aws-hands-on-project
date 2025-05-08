@@ -1,6 +1,4 @@
-# aws-hands-on-project
 My first AWS project
-
 
 # VPC with Public-Private Subnet in Production
 
