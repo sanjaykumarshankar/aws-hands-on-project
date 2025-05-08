@@ -75,14 +75,7 @@ Create a Simple Web Page
 ```bash
 vim index.html
 ```
-Inside the file paste the content
-
-<!DOCTYPE html>
-<html>
-<body>
-<h1> My First AWS Project to Demonstrate apps to Private Subnet</h1>
-</body>
-</html>
+Inside the file wirte a basci html content 
 
 Run a Simple Python Web Server
 
